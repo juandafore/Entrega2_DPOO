@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Compilados Java
+*.class
+ClubDeportivoSeneca/bin/
+
+# Datos generados por la app (persistencia)
+ClubDeportivoSeneca/datos/
+ClubDeportivoSeneca/datos_programa1/
